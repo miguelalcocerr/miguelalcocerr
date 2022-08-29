@@ -5,14 +5,14 @@ Mi nombre es Miguel Alcocer, soy de Lima Peru, Especialista Cloud.
 #Skills
 
 
--Administración y Soporte MultiCloud ( AWS, AZURE, GCP e IBM Cloud).
--Administración y Soporte de entorno Híbrido (Cloud - Onpremises).
--Despliegue de instancias y asignación de recursos en la Nube.
--Administración y Soporte de usuarios en la Nube.
--Atención de solicitudes, incidentes, Cambios según proceso ITIL y ágil SCRUM.
--Uso de DEVOPS (Docker, Kubernetes, etc)
--Administración en las capas IaaS, PaaS y SaaS.
--Reportar casos de Soporte, a los Proveedores de Nube.
+- Administración y Soporte MultiCloud ( AWS, AZURE, GCP e IBM Cloud).
+- Administración y Soporte de entorno Híbrido (Cloud - Onpremises).
+- Despliegue de instancias y asignación de recursos en la Nube.
+- Administración y Soporte de usuarios en la Nube.
+- Atención de solicitudes, incidentes, Cambios según proceso ITIL y ágil SCRUM.
+- Uso de DEVOPS (Docker, Kubernetes, etc)
+- Administración en las capas IaaS, PaaS y SaaS.
+- Reportar casos de Soporte, a los Proveedores de Nube.
 
 - Estoy encargado de la administración y continuidad de la operación de los servidores UNIX/Linux.
 - Administración e implementación de SO UNIX AIX, VIOS sobre servidores Power Systems.
